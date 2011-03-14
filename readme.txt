@@ -2,9 +2,9 @@
 Contributors: jcskyrock
 Donate link: http://www.skyrocketonlinemarketing.com/contact/
 Tags: post, custom post types, twitter, tweet, random
-Requires at least: 3.0.2
-Tested up to: 3.0.2
-Stable tag: 0.1
+Requires at least: 3.1
+Tested up to: 3.1
+Stable tag: 1.0
 
 == Description ==
 
