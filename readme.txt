@@ -1,6 +1,6 @@
 === Display Random Post as Tweet ===
-Contributors: jcskyrock
-Donate link: http://www.skyrocketonlinemarketing.com/contact/
+Contributors: jcskyrock, jcskyrocket
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WSVM264W5YDNS
 Tags: post, custom post types, twitter, tweet, random
 Requires at least: 3.1
 Tested up to: 3.1
@@ -25,7 +25,7 @@ None yet...
 
 == Screenshots ==
 
-None yet...
+1. Screen grab of Display Random Post as Tweet options
 
 == Changelog ==
 

@@ -1,10 +1,10 @@
 <?php
 /*
 	Plugin Name: Display Random Post As Tweet
-	Plugin URI: http://www.skyrocketonlinemarketing.com/wordpress-plugins/
+	Plugin URI: http://www.skyrocketonlinemarketing.com/2011/03/15/display-random-post-as-tweet-1-0/
 	Description: A simple plugin to display a random post in a format ready for posting to Twitter.
 	Author: Sky Rocket Inc.
-	Version: 0.1
+	Version: 1.0
 	Author URI: http://www.skyrocketonlinemarketing.com/
 */
 ?>
@@ -75,6 +75,8 @@ function drpat_settings_page() {
     <input type="submit" class="button-primary" value="<?php _e('Save Settings') ?>" />
     </p>
 </form>
+<p><a href="http://www.skyrocketonlinemarketing.com/2011/03/15/display-random-post-as-tweet-1-0/">Click here </a> to report bugs or request features...</p>
+<p>And if you feel like donating to support free software, <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WSVM264W5YDNS">click here...</a></p>
 </div>
 <?php 
 }
